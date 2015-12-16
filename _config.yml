@@ -1,0 +1,28 @@
+name: Toure Kounda
+favicon: null
+layout_spectrum: 0.4914645794779062
+typography_spectrum: 0.602415417553857
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.8239033240824938
+  lightness: 0.26187853747978806
+  saturation: 0.4046837242785841
+  rhythmicContrast: 0.7604194162413478
+purpose: []
